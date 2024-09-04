@@ -3,7 +3,7 @@ public class StarPattern {
         int n = 5; 
 
         for (int i = 1; i <= n; i++) {
-            // Print spaces
+            
             for (int j = i; j < n; j++) {
                 System.out.print(" ");
             }
